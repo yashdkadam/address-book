@@ -1,6 +1,4 @@
 # CPP Address Book
-ICS 212 Program Structure - Project 02; Address Book (Fall 2015)
-Address book project made in CPP, back in Fall 2015 semester, when I took ICS 212 Program Structure.
 
 ## Compile and Run Normally
 ### Compile with make:
@@ -33,9 +31,3 @@ Displays arguments passed into function.
 6 - Reverse nodes from linked list
 7 - Exit Program
 ```
-
-## Issue
-- Reverse list does not work properly. We were required to implement it recursively, and the solution I found online does not work too well.
-
-## Copyright Notice
-If any ICS 212 students from Ravi's class comes across this. **BE AWARE**, I modified the code to not meet the majority of his requirements.
